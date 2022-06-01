@@ -1,0 +1,12 @@
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\bin\Debug\net6.0\AccountOwnerServer.Model.deps.json
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\bin\Debug\net6.0\AccountOwnerServer.Model.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\bin\Debug\net6.0\AccountOwnerServer.Model.pdb
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.csproj.AssemblyReference.cache
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.AssemblyInfoInputs.cache
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.AssemblyInfo.cs
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\refint\AccountOwnerServer.Model.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\AccountOwnerServer.Model.pdb
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Model\obj\Debug\net6.0\ref\AccountOwnerServer.Model.dll

@@ -1,0 +1,38 @@
+using AccountOwnerServer.Extensions;
+using Microsoft.AspNetCore.HttpOverrides;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+
+builder.Services.ConfigureCors();//Agregado
+builder.Services.ConfigureIISIntegration();//Agregado
+
+builder.Services.AddControllers();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+
+//Agregado
+if (app.Environment.IsDevelopment())
+    app.UseDeveloperExceptionPage();
+else
+    app.UseHsts();
+
+app.UseHttpsRedirection();
+
+app.UseStaticFiles();//Agregado
+
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+    ForwardedHeaders = ForwardedHeaders.All
+});//Agregado
+
+app.UseCors("CorsPolicy");//Agregado
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AccountOwnerServer.Data/1.0.0": {
+        "dependencies": {
+          "AccountOwnerServer.Model": "1.0.0"
+        },
+        "runtime": {
+          "AccountOwnerServer.Data.dll": {}
+        }
+      },
+      "AccountOwnerServer.Model/1.0.0": {
+        "runtime": {
+          "AccountOwnerServer.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountOwnerServer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccountOwnerServer.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

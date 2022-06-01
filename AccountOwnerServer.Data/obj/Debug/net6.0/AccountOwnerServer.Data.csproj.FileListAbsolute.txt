@@ -1,0 +1,15 @@
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\bin\Debug\net6.0\AccountOwnerServer.Data.deps.json
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\bin\Debug\net6.0\AccountOwnerServer.Data.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\bin\Debug\net6.0\AccountOwnerServer.Data.pdb
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\bin\Debug\net6.0\AccountOwnerServer.Model.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\bin\Debug\net6.0\AccountOwnerServer.Model.pdb
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.csproj.AssemblyReference.cache
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.AssemblyInfoInputs.cache
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.AssemblyInfo.cs
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.csproj.CopyComplete
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\refint\AccountOwnerServer.Data.dll
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\AccountOwnerServer.Data.pdb
+C:\Users\Hugo Rodríguez\source\repos\AccountOwnerServerProject\AccountOwnerServer.Data\obj\Debug\net6.0\ref\AccountOwnerServer.Data.dll
