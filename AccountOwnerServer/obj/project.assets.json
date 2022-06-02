@@ -275,7 +275,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "AccountOwnerServer.Model": "1.0.0"
+          "AccountOwnerServer.Model": "1.0.0",
+          "MySql.Data": "8.0.29"
         },
         "compile": {
           "bin/placeholder/AccountOwnerServer.Data.dll": {}
