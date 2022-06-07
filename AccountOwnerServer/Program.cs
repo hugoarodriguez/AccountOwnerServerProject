@@ -7,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.ConfigureCors();//Agregado
 builder.Services.ConfigureIISIntegration();//Agregado
+builder.Services.ConfigureMySqlContext(builder.Configuration);//Agregado
+builder.Services.ConfigureRepositories();//Agregado
 
 builder.Services.AddControllers();
 

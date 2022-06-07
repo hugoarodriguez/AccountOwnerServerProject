@@ -10,9 +10,9 @@ namespace AccountOwnerServer.Data.Repositories
     public interface IOwnerRepository
     {
         Task<IEnumerable<Owner>> GetAllOwners();
-        Task<Owner> GetOwnerDetails();
-        Task<bool> InsertOwner();
-        Task<bool> UpdateOwner();
-        Task<bool> DeleteOwner();
+        Task<Owner> GetOwnerDetails(string ownerId);
+        Task<bool> InsertOwner(Owner owner);
+        Task<bool> UpdateOwner(Owner owner);
+        Task<bool> DeleteOwner(string ownerId);
     }
 }

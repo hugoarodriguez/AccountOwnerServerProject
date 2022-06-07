@@ -16,6 +16,6 @@ namespace AccountOwnerServer.Model
         public string OwnerId { get => ownerId; set => ownerId = value; }
         public string Name { get => name; set => name = value; }
         public DateTime Date { get => date; set => date = value; }
-        public string Addres { get => address; set => address = value; }
+        public string Address { get => address; set => address = value; }
     }
 }

@@ -213,7 +213,8 @@
       },
       "AccountOwnerServer.Data/1.0.0": {
         "dependencies": {
-          "AccountOwnerServer.Model": "1.0.0"
+          "AccountOwnerServer.Model": "1.0.0",
+          "MySql.Data": "8.0.29"
         },
         "runtime": {
           "AccountOwnerServer.Data.dll": {}

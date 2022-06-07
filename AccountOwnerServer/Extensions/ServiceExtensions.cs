@@ -1,4 +1,5 @@
 ﻿using AccountOwnerServer.Data;
+using AccountOwnerServer.Data.Repositories;
 
 namespace AccountOwnerServer.Extensions
 {
@@ -25,7 +26,11 @@ namespace AccountOwnerServer.Extensions
             var mySQLConnectionString = new MySQLConfiguration(config.GetConnectionString("MySqlConnection"));
 
             services.AddSingleton(mySQLConnectionString);
+        }
 
+        public static void ConfigureRepositories(this IServiceCollection services)
+        {
+            services.AddScoped<IOwnerRepository, OwnerRepository>();
         }
     }
 }
