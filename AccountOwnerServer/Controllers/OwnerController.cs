@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AccountOwnerServer.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("accountOwners/[controller]")]
     [ApiController]
     public class OwnerController : ControllerBase
     {

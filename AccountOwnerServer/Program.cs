@@ -22,7 +22,8 @@ if (app.Environment.IsDevelopment())
 else
     app.UseHsts();
 
-app.UseHttpsRedirection();
+//Quitar este comentario cuando se publiquen los microservicios correspondientes en el AKS
+//app.UseHttpsRedirection();
 
 app.UseStaticFiles();//Agregado
 
