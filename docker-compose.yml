@@ -1,0 +1,15 @@
+version: '3.9'
+services:
+  accountowner:
+    image: accountowner:runtime
+    build:
+      dockerfile: ./Dockerfile
+      context: .
+    ports:
+      - "5000:80"
+      #- "5001:443"
+
+networks:
+ default:
+   external: true
+   name : services_default
